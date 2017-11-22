@@ -1,4 +1,4 @@
-// Add your personal info for the bot to work in here
+// Add your Keys and Access Tokens from https://apps.twitter.com in here
 module.exports = {
     consumer_key:         '...',
     consumer_secret:      '...',
