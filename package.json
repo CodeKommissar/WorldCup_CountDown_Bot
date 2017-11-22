@@ -1,0 +1,13 @@
+{
+  "name": "WorldCup_CountDown_Bot",
+  "version": "1.0.0",
+  "description": "Bot made with node.js",
+  "main": "bot.js",
+  "repository": "https://github.com/CodeKommissar/WorldCup_CountDown_Bot",
+  "author": "Luis Rodriguez",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.19.2",
+    "twit": "^2.2.9"
+  }
+}
